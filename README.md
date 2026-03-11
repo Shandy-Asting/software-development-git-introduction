@@ -15,3 +15,4 @@ repository ini bertujuan untuk mempelajari dan memahami git dan github dalam pen
 ## Daftar File
 - README.md
 - PERKENALAN.md
+- profil.md
