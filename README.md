@@ -7,12 +7,11 @@ NPM : 2313020069
 # Tujuan Repository 
 repository ini bertujuan untuk mempelajari dan memahami git dan github dalam pengembangan perangkat lunak
 
-# Tools yang Digunakan
-• Git
-• GitHub
-• Visual Studio Code
+## Tools yang digunakan
+- Git
+- GitHub
+- Visual Studio Code
 
-# Daftar File
-• README.md 
-• Perkenalan.md
-• Profil.md
+## Daftar File
+- README.md
+- PERKENALAN.md
